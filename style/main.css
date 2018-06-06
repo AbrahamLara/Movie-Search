@@ -1,0 +1,9 @@
+form {
+    background-color: cadetblue;
+    padding: 10px;
+    width: fit-content;
+}
+
+image,h2,p {
+    display: block;
+}
