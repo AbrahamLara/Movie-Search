@@ -4,6 +4,24 @@ form {
     width: fit-content;
 }
 
-image,h2,p {
-    display: block;
+form {
+    margin: auto;
+}
+
+.search_container {
+    margin: auto;
+    width: fit-content;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+p {
+    width: 300px;
+}
+
+.movie_info {
+    width: fit-content;
+    margin: auto;
 }
